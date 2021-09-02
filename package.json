@@ -1,0 +1,20 @@
+{
+  "name": "circleci-getstarted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeNasci/circleci-getstarted.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeNasci/circleci-getstarted/issues"
+  },
+  "homepage": "https://github.com/FelipeNasci/circleci-getstarted#readme"
+}
